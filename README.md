@@ -12,4 +12,4 @@ Testing environment:
 - Anytime able to edit the table! Such as Add, Copy, ...
 ## Usage
 Place **MemoryWatcher** folder into **[folder has Citra.exe]\\scripting\\** folder.  
-Then run this script after booted your some games.
+Then run citra.py and this script after booted your some games.
